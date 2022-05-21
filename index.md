@@ -148,6 +148,15 @@ If you are a provider and would like to be added/removed from the list please su
 - Trials - No
 - Payment type - Paypal
 
+### Plex 'N Chill
+- Website - [https://plexnchill.plexmanager.com](https://plexnchill.plexmanager.com)
+- Discord -  [https://discord.gg/unhUcm5geD](https://discord.gg/unhUcm5geD)
+- Content - 30K M, 10K TV Shows / 4K, 4K DV, Anime, Kids, Foreign, Sports, Audiobooks 
+- Server location - ?
+- CDN - ?
+- Prices - 11$/month, multiple plans
+- Trials - No
+- Payment type - Paypal
 
 ## Plex appboxes providers
 Work in progress.

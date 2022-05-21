@@ -1,12 +1,19 @@
 ## Welcome to PlexShares
 
-You can use the [editor on GitHub](https://github.com/plexshares/plexshares.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+r/plexshares was the biggest Reddit community where you could choose a provider. The r/plexshares Reddit has been closed on 05/20/2022.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below you are able to find a list with the providers.
 
-### Markdown
+If you are a provider and would like to be added/removed from the list please submit a pull request.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Plex shares providers
+
+# Header 1
+Test 1
+## Header 2
+Test 2
+### Header 3
+Test 3
 
 ```markdown
 Syntax highlighted code block
@@ -25,12 +32,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### Plex appboxes providers
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/plexshares/plexshares.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 

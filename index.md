@@ -155,7 +155,17 @@ If you are a provider and would like to be added/removed from the list please su
 - Server location - US & EU
 - CDN - Yes
 - Prices - 10$/month, multiple plans
-- Trials - No
+- Trials - Yes
+- Payment type - Paypal
+
+### Rogue Streamz
+- Website - [roguestreamz.cc](http://roguestreamz.cc/)
+- Discord -  [discord.gg/roguestreamz](https://discord.com/invite/roguestreamz)
+- Content - 16K M, 7K TV Shows / 4K, Anime, Kids
+- Server location - US & EU
+- CDN - Yes - CloudFlare
+- Prices - $8$/month, multiple plans
+- Trials - ?
 - Payment type - Paypal
 
 ## Plex appboxes providers

@@ -164,7 +164,7 @@ If you are a provider and would like to be added/removed from the list please su
 - Content - 16K M, 7K TV Shows / 4K, Anime, Kids
 - Server location - US & EU
 - CDN - Yes - CloudFlare
-- Prices - $8$/month, multiple plans
+- Prices - 8$/month, multiple plans
 - Trials - ?
 - Payment type - Paypal
 

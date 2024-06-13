@@ -8,12 +8,12 @@ If you are a provider and would like to be added/removed from the list please su
 
 ## Plex share providers
 
-### SuitsPlex
+### Avalon
 - Website - No
-- Discord - [https://discord.gg/jCh9QsxxUH](https://discord.gg/jCh9QsxxUH)
-- Content - 25K M, 10K TV Shows / Anime, Kids, 4K
-- Server location - EU
-- CDN - ?
+- Discord - [https://discord.gg/cWguyK6Ecy](https://discord.gg/cWguyK6Ecy)
+- Content - 57K M, 16K TV Shows / Anime, Kids, 4K
+- Server location - EU & US
+- CDN - Yes
 - Prices - 10$/month, multiple plans
 - Trials - No
 - Payment type - Paypal, Crypto
@@ -24,19 +24,9 @@ If you are a provider and would like to be added/removed from the list please su
 - Content - 56K M, 8.5K TV Shows / Anime, Kids
 - Server location - EU & US
 - CDN - Yes
-- Prices - 7€/month, multiple plans available
+- Prices - 10€/month, multiple plans available
 - Trials - No
 - Payment type - PayPal 
-
-### Breaking Plex
-- Website - No 
-- Discord - [https://discord.gg/SgPtSQWnzB](https://discord.gg/SgPtSQWnzB)
-- Content - 25K M, 10K TV Shows / 4K
-- Server location - EU
-- CDN - ?
-- Prices - 10$/month, multiple plans
-- Trials - No
-- Payment type - Paypal, Crypto
 
 ### Diamond Media
 - Website - No
@@ -48,15 +38,24 @@ If you are a provider and would like to be added/removed from the list please su
 - Trials - No
 - Payment type - Paypal, Crypto
 
-### Warehouse Plex
+### Nocturno
 - Website - No 
-- Discord - [https://discord.gg/vBqMYNZswZ](https://discord.gg/vBqMYNZswZ)
-- Content - 25K M, 6K TV Shows / 4K M & 4K TV
+- Discord - [https://discord.com/invite/4ZpEXKVn8u](https://discord.com/invite/4ZpEXKVn8u)
+- Content - 40K M, 14K TV Shows / 4K, Kids TV, Anime
 - Server location - EU
-- CDN - ?
+- CDN - Yes
 - Prices - 10$/month, multiple plans
-- Trials - No
+- Trials - ?
 - Payment type - Paypal, Crypto
+
+### ZyfServer
+- Website - No
+- Discord - [https://discord.com/invite/pDtBCKSj5v](https://discord.com/invite/pDtBCKSj5v)
+- Content - 35K M, 10K TV Shows, 2800 Anime, Kids and 4K (Great anime collection)
+- Server location - US
+- CDN - Yes
+- Prices - Starting at 10$/month, multiple plans
+- Payment type - Paypal, Crypto, Card
 
 ### Pirate8
 - Website - No

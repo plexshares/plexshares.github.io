@@ -2,9 +2,9 @@
 
 r/plexshares was the biggest Reddit community where you could choose a plex provider. The r/plexshares Reddit has been closed on 05/19/2022.
 
-Below you are able to find a list with the providers.
+Below you can find a list of providers.
 
-If you are a provider and would like to be added/removed from the list please submit a request here: [https://forms.gle/orWvigAgaWzVTYSm7](https://forms.gle/orWvigAgaWzVTYSm7).
+If you are a provider and would like to be added/removed from the list please submit a request here: [https://forms.gle/ogNVNq2ySuD44vmq5](https://forms.gle/ogNVNq2ySuD44vmq5).
 
 ## Plex share providers
 
@@ -167,11 +167,17 @@ If you are a provider and would like to be added/removed from the list please su
 - Trials - ?
 - Payment type - Paypal
 
-## Plex appboxes providers
+## Plex appbox providers
+Work in progress.
+
+## Emby Share providers
+Work in progress.
+
+## Emby appbox providers
 Work in progress.
 
 ## Baremetal Providers
 Work in progress.
 
 
-If you are a provider please submit a request at [https://forms.gle/orWvigAgaWzVTYSm7](https://forms.gle/orWvigAgaWzVTYSm7)
+If you are a provider please submit a request at [https://forms.gle/ogNVNq2ySuD44vmq5](https://forms.gle/ogNVNq2ySuD44vmq5)

@@ -11,7 +11,7 @@ If you are a provider and would like to be added/removed from the list please su
 ### Avalon
 - Website - No
 - Discord - [https://discord.gg/cWguyK6Ecy](https://discord.gg/cWguyK6Ecy)
-- Content - 57K M, 16K TV Shows / Anime, Kids, 4K
+- Content - 71K M, 18K TV Shows / Anime, Kids, 4K
 - Server location - EU & US
 - CDN - Yes
 - Prices - 10$/month, multiple plans
@@ -28,31 +28,21 @@ If you are a provider and would like to be added/removed from the list please su
 - Trials - No
 - Payment type - PayPal 
 
-### Diamond Media
-- Website - No
-- Discord - [https://discord.gg/vAxePvYCUv](https://discord.gg/vAxePvYCUv)
-- Content - 73K M, 21K TV Shows / 4K, 4K DV, Anime
-- Server location - EU & US
-- CDN - Yes
-- Prices - 15$/month, multiple plans
-- Trials - No
-- Payment type - Paypal, Crypto
-
 ### Nocturno
 - Website - No 
 - Discord - [https://discord.com/invite/4ZpEXKVn8u](https://discord.com/invite/4ZpEXKVn8u)
-- Content - 40K M, 14K TV Shows / 4K, Kids TV, Anime
-- Server location - EU
+- Content - 44K M, 15K TV Shows / 4K, Kids TV, Anime
+- Server location - EU & US
 - CDN - Yes
 - Prices - 10$/month, multiple plans
-- Trials - ?
+- Trials - No
 - Payment type - Paypal, Crypto
 
 ### ZyfServer
 - Website - No
 - Discord - [https://discord.com/invite/pDtBCKSj5v](https://discord.com/invite/pDtBCKSj5v)
 - Content - 35K M, 10K TV Shows, 2800 Anime, Kids and 4K (Great anime collection)
-- Server location - US
+- Server location - EU
 - CDN - Yes
 - Prices - Starting at 10$/month, multiple plans
 - Payment type - Paypal, Crypto, Card

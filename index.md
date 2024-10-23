@@ -8,15 +8,15 @@ If you are a provider and would like to be added/removed from the list please su
 
 ## Plex share providers
 
-### Avalon
-- Website - No
-- Discord - [https://discord.gg/cWguyK6Ecy](https://discord.gg/cWguyK6Ecy)
-- Content - 71K M, 18K TV Shows / Anime, Kids, 4K
-- Server location - EU & US
+### Jill Media
+- Website - Yes
+- Discord - [https://discord.gg/fnrR2FFcun](https://discord.gg/fnrR2FFcun)
+- Content - 37K M, 11.8K TV Shows / Anime, Kids, 4K Movies & TV Shows
+- Server location - Canada/USA
 - CDN - Yes
-- Prices - 10$/month, multiple plans
+- Prices - Starting at 7$/month, multiple plans
 - Trials - No
-- Payment type - Paypal, Crypto
+- Payment type - Paypal, Card
 
 ### Project Valhalla
 - Website - [https://projectvalhalla.eu/](https://projectvalhalla.eu/)

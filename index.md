@@ -11,22 +11,22 @@ If you are a provider and would like to be added/removed from the list please su
 ### Jill Media
 - Website - Yes
 - Discord - [https://discord.gg/fnrR2FFcun](https://discord.gg/fnrR2FFcun)
-- Content - 37K M, 11.8K TV Shows / Anime, Kids, 4K Movies & TV Shows
+- Content - 41K M, 12K TV Shows / Anime, Kids, 4K Movies & TV Shows
 - Server location - Canada/USA
 - CDN - Yes
 - Prices - Starting at 7$/month, multiple plans
 - Trials - No
 - Payment type - Paypal, Card
 
-### Project Valhalla
-- Website - [https://projectvalhalla.eu/](https://projectvalhalla.eu/)
-- Discord - [https://discord.gg/senuqVk96t](https://discord.gg/senuqVk96t)
-- Content - 56K M, 8.5K TV Shows / Anime, Kids
+### HDBits
+- Website - Yes
+- Discord - [https://discord.gg/hdbits](https://discord.gg/hdbits)
+- Content - 57K+ M, 19K+ TV Shows / Anime, 4K HDR, 4K DV and REMUX
 - Server location - EU & US
-- CDN - Yes
-- Prices - 10€/month, multiple plans available
-- Trials - No
-- Payment type - PayPal 
+- CDN - No (but good peering)
+- Prices - 7$/month, multiple plans
+- Trials - Yes
+- Payment type - Paypal, Crypto, Card 
 
 ### Nocturno
 - Website - No 
@@ -67,16 +67,6 @@ If you are a provider and would like to be added/removed from the list please su
 - Trials - No
 - Payment type - Paypal, Crypto
 
-### My Plex
-- Website - No
-- Discord - [https://discord.gg/4GeCR24mA9](https://discord.gg/4GeCR24mA9)
-- Content - 30K M, 19K TV Shows / 4K
-- Server location - US 
-- CDN - ?
-- Prices - 10$/month, multiple plans
-- Trials - ?
-- Payment type - ?
-
 ### C-MEDIA
 - Website - No
 - Discord - [https://discord.gg/vMr3wwkrbG](https://discord.gg/vMr3wwkrbG)
@@ -109,7 +99,7 @@ If you are a provider and would like to be added/removed from the list please su
 
 ### Founder Plex
 - Website - No
-- Discord - [https://discord.gg/kxB2bPkCNJ](https://discord.gg/kxB2bPkCNJ)
+- Discord - [https://discord.gg/kxB2bPkCNJ](https://discord.gg/kxB2bPkCNz)
 - Content - 33K M, 9K TV Shows / 4K, Kids
 - Server location - US & NL
 - CDN - ?
@@ -119,7 +109,7 @@ If you are a provider and would like to be added/removed from the list please su
 
 ### Dunder Plex
 - Website - No
-- Discord - [https://discord.gg/WfvCHm7zbD](https://discord.gg/WfvCHm7zbD)
+- Discord - [https://discord.gg/WfvCHm7zbD](https://discord.gg/WfvCHm7zbz)
 - Content - 33K M, 9K TV Shows / 4K, Anime 
 - Server location - US 
 - CDN - ?
@@ -129,7 +119,7 @@ If you are a provider and would like to be added/removed from the list please su
 
 ### PlexStory Inc
 - Website - No
-- Discord -  [https://discord.gg/QZm8UmQjhY](https://discord.gg/QZm8UmQjhY)
+- Discord -  [https://discord.gg/QZm8UmQjhY](https://discord.gg/QZm8UmQjhz)
 - Content - 27K M, 10K TV Shows / 4K, Anime 
 - Server location - ?
 - CDN - ?

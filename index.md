@@ -11,7 +11,7 @@ If you are a provider and would like to be added/removed from the list please su
 ### Jill Media
 - Website - Yes
 - Discord - [https://discord.gg/fnrR2FFcun](https://discord.gg/fnrR2FFcun)
-- Content - 41K M, 12K TV Shows / Anime, Kids, 4K Movies & TV Shows
+- Content - 45K M, 14K TV Shows / Anime, Kids, 4K Movies & TV Shows
 - Server location - Canada/USA
 - CDN - Yes
 - Prices - Starting at 7$/month, multiple plans
@@ -21,11 +21,11 @@ If you are a provider and would like to be added/removed from the list please su
 ### HDBits
 - Website - Yes
 - Discord - [https://discord.gg/hdbits](https://discord.gg/hdbits)
-- Content - 57K+ M, 19K+ TV Shows / Anime, 4K HDR, 4K DV and REMUX
-- Server location - EU & US
-- CDN - No (but good peering)
-- Prices - 7$/month, multiple plans
-- Trials - Yes
+- Content - 146K+ M, 37K+ TV Shows / Anime, 4K HDR, 4K DV and REMUX
+- Server location - US
+- CDN - Yes
+- Prices - 20$/month, multiple plans
+- Trials - No
 - Payment type - Paypal, Crypto, Card 
 
 ### Nocturno

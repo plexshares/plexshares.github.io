@@ -28,6 +28,16 @@ If you are a provider and would like to be added/removed from the list please su
 - Trials - No
 - Payment type - Paypal, Crypto, Card 
 
+### Astralis
+- Website - Yes
+- Discord - [https://discord.gg/SFb9gAUrfE](https://discord.gg/SFb9gAUrfE)
+- Content - 65K+ M, 17K+ TV Shows | 4K HDR & 4K DV | Anime, Kids TV, Audiobooks & eBooks
+- Server location - EU & US
+- CDN - Yes
+- Prices - 10$/month, multiple plans
+- Trials - No
+- Payment type - Paypal, Crypto, Card 
+
 ### Nocturno
 - Website - No 
 - Discord - [https://discord.com/invite/4ZpEXKVn8u](https://discord.com/invite/4ZpEXKVn8u)

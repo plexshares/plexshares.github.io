@@ -31,7 +31,7 @@ If you are a provider and would like to be added/removed from the list please su
 ### Astralis
 - Website - Yes
 - Discord - [https://discord.gg/SFb9gAUrfE](https://discord.gg/SFb9gAUrfE)
-- Content - 65K+ M, 17K+ TV Shows | 4K HDR & 4K DV | Anime, Kids TV, Audiobooks & eBooks
+- Content - 65K+ M, 17K+ TV Shows / 4K HDR & 4K DV / Anime, Kids TV, Audiobooks & eBooks
 - Server location - EU & US
 - CDN - Yes
 - Prices - 10$/month, multiple plans

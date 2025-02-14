@@ -18,16 +18,6 @@ If you are a provider and would like to be added/removed from the list please su
 - Trials - No
 - Payment type - Paypal, Card
 
-### HDBits
-- Website - Yes
-- Discord - [https://discord.gg/hdbits](https://discord.gg/hdbits)
-- Content - 146K+ M, 37K+ TV Shows / Anime, 4K HDR, 4K DV and REMUX
-- Server location - US
-- CDN - Yes
-- Prices - 20$/month, multiple plans
-- Trials - No
-- Payment type - Paypal, Crypto, Card 
-
 ### Astralis
 - Website - Yes
 - Discord - [https://discord.gg/SFb9gAUrfE](https://discord.gg/SFb9gAUrfE)

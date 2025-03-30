@@ -8,16 +8,6 @@ If you are a provider and would like to be added/removed from the list please su
 
 ## Plex share providers
 
-### Jill Media
-- Website - Yes
-- Discord - [https://discord.gg/fnrR2FFcun](https://discord.gg/fnrR2FFcun)
-- Content - 45K M, 14K TV Shows / Anime, Kids, 4K Movies & TV Shows
-- Server location - Canada/USA
-- CDN - Yes
-- Prices - Starting at 8$/month, multiple plans
-- Trials - No
-- Payment type - Paypal, Card
-
 ### Astralis
 - Website - Yes
 - Discord - [https://discord.gg/SFb9gAUrfE](https://discord.gg/SFb9gAUrfE)
@@ -137,9 +127,9 @@ If you are a provider and would like to be added/removed from the list please su
 - Trials - Yes
 - Payment type - Paypal
 
-### Rogue Streamz
+### Rogue Streams
 - Website - [roguestreamz.cc](http://roguestreamz.cc/)
-- Discord -  [discord.gg/roguestreamz](https://discord.com/invite/roguestreamz)
+- Discord -  [discord.gg/roguestreams](https://discord.com/invite/roguestreams)
 - Content - 16K M, 7K TV Shows / 4K, Anime, Kids
 - Server location - US & EU
 - CDN - Yes - CloudFlare

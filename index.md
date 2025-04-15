@@ -8,6 +8,16 @@ If you are a provider and would like to be added/removed from the list please su
 
 ## Plex share providers
 
+### HDBits
+- Website - Yes
+- Discord - [https://discord.gg/PZXGRXU5BZ](https://discord.gg/PZXGRXU5BZ)
+- Content - 44K M, 15K TV Shows / 4K, Kids TV, Anime, Bollywood
+- Server location - EU & US
+- CDN - Yes
+- Prices - 7$/month, multiple plans
+- Trials - No
+- Payment type - Paypal, Crypto, Card, Revolut 
+
 ### Astralis
 - Website - Yes
 - Discord - [https://discord.gg/SFb9gAUrfE](https://discord.gg/SFb9gAUrfE)

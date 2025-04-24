@@ -8,15 +8,15 @@ If you are a provider and would like to be added/removed from the list please su
 
 ## Plex share providers
 
-### HDBits
+### Apache
 - Website - Yes
-- Discord - [https://discord.gg/PZXGRXU5BZ](https://discord.gg/PZXGRXU5BZ)
-- Content - 44K M, 15K TV Shows / 4K, Kids TV, Anime, Bollywood
+- Discord - [https://discord.gg/SDAyHrGSuv](https://discord.gg/SDAyHrGSuv)
+- Content - 25K+ M, 7K+ TV Shows / 4K HDR / Anime, Kids TV, Audiobooks & eBooks
 - Server location - EU & US
 - CDN - Yes
 - Prices - 7$/month, multiple plans
 - Trials - No
-- Payment type - Paypal, Crypto, Card, Revolut 
+- Payment type - Paypal, Crypto, Card
 
 ### Astralis
 - Website - Yes
@@ -47,7 +47,7 @@ If you are a provider and would like to be added/removed from the list please su
 - Prices - Starting at 10$/month, multiple plans
 - Payment type - Paypal, Crypto, Card
 
-### Pirate8
+### P8 Streams
 - Website - No
 - Discord - [https://discord.gg/mRJkQt74aS](https://discord.gg/mRJkQt74aS)
 - Content - 71K M, 18K TV Shows / 4K, Anime, Kids TV
@@ -125,26 +125,6 @@ If you are a provider and would like to be added/removed from the list please su
 - CDN - ?
 - Prices - 11$/month, multiple plans
 - Trials - No
-- Payment type - Paypal
-
-### Plex 'N Chill
-- Website - [https://plexnchill.plexmanager.com](https://plexnchill.plexmanager.com)
-- Discord -  [https://discord.gg/unhUcm5geD](https://discord.gg/unhUcm5geD)
-- Content - 30K M, 10K TV Shows / 4K, 4K DV, Anime, Kids, Foreign, Sports, Audiobooks 
-- Server location - US & EU
-- CDN - Yes
-- Prices - 10$/month, multiple plans
-- Trials - Yes
-- Payment type - Paypal
-
-### Rogue Streams
-- Website - [roguestreamz.cc](http://roguestreamz.cc/)
-- Discord -  [discord.gg/roguestreams](https://discord.com/invite/roguestreams)
-- Content - 16K M, 7K TV Shows / 4K, Anime, Kids
-- Server location - US & EU
-- CDN - Yes - CloudFlare
-- Prices - 8$/month, multiple plans
-- Trials - ?
 - Payment type - Paypal
 
 ## Plex appbox providers

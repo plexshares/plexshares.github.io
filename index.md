@@ -8,25 +8,25 @@ If you are a provider and would like to be added/removed from the list please su
 
 ## Plex share providers
 
-### Apache
-- Website - Yes
-- Discord - [https://discord.gg/SDAyHrGSuv](https://discord.gg/SDAyHrGSuv)
-- Content - 25K+ M, 7K+ TV Shows / 4K HDR / Anime, Kids TV, Audiobooks & eBooks
-- Server location - EU & US
-- CDN - Yes
-- Prices - 7$/month, multiple plans
-- Trials - No
-- Payment type - Paypal, Crypto, Card
-
 ### Astralis
 - Website - Yes
-- Discord - [https://discord.gg/SFb9gAUrfE](https://discord.gg/SFb9gAUrfE)
+- Discord - [https://discord.gg/QUDaUuuv2N](https://discord.gg/QUDaUuuv2N)
 - Content - 70K+ M, 17K+ TV Shows / 4K HDR & 4K DV / Anime, Kids TV, Audiobooks & eBooks
 - Server location - EU & US
 - CDN - Yes
 - Prices - 10$/month, multiple plans
 - Trials - No
-- Payment type - Paypal, Crypto, Card 
+- Payment type - Paypal, Crypto, Card
+- 
+### Apache
+- Website - Yes
+- Discord - [https://discord.gg/SDAyHrGSuv](https://discord.gg/SDAyHrGSuv)
+- Content - 25K+ M, 7K+ TV Shows / 4K HDR / Anime, Kids TV & Audiobooks
+- Server location - EU & US
+- CDN - Yes
+- Prices - 7$/month, multiple plans
+- Trials - No
+- Payment type - Paypal, Crypto, Card
 
 ### Nocturno
 - Website - No 

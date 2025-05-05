@@ -17,7 +17,7 @@ If you are a provider and would like to be added/removed from the list please su
 - Prices - 10$/month, multiple plans
 - Trials - No
 - Payment type - Paypal, Crypto, Card
-- 
+
 ### Apache
 - Website - Yes
 - Discord - [https://discord.gg/SDAyHrGSuv](https://discord.gg/SDAyHrGSuv)

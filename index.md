@@ -18,31 +18,21 @@ If you are a provider and would like to be added/removed from the list please su
 - Trials - No
 - Payment type - Paypal, Crypto, Card
 
-### Apache
+### Arcadia
 - Website - Yes
 - Discord - [https://discord.gg/SDAyHrGSuv](https://discord.gg/SDAyHrGSuv)
-- Content - 25K+ M, 7K+ TV Shows / 4K HDR / Anime, Kids TV & Audiobooks
+- Content - 26K+ M, 7K+ TV Shows / 4K HDR / Anime, Kids TV & Audiobooks
 - Server location - EU & US
 - CDN - Yes
 - Prices - 7$/month, multiple plans
 - Trials - No
 - Payment type - Paypal, Crypto, Card
 
-### Nocturno
-- Website - No 
-- Discord - [https://discord.com/invite/4ZpEXKVn8u](https://discord.com/invite/4ZpEXKVn8u)
-- Content - 44K M, 15K TV Shows / 4K, Kids TV, Anime
-- Server location - EU & US
-- CDN - Yes
-- Prices - 10$/month, multiple plans
-- Trials - No
-- Payment type - Paypal, Crypto
-
 ### Legendary
 - Website - No
 - Discord - [https://discord.gg/Zv5bsbugud](https://discord.gg/Zv5bsbugud)
-- Content - 38K M, 14K TV Shows / 4K, Kids TV, Anime
-- Server location - EU & US
+- Content - 20K M, 5.5K TV Shows / 4K, Kids TV, Anime
+- Server location - EU
 - CDN - Yes
 - Prices - 7$/month, multiple plans
 - Trials - No

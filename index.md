@@ -28,16 +28,6 @@ If you are a provider and would like to be added/removed from the list please su
 - Trials - No
 - Payment type - Paypal, Crypto, Card
 
-### Legendary
-- Website - No
-- Discord - [https://discord.gg/Zv5bsbugud](https://discord.gg/Zv5bsbugud)
-- Content - 20K M, 5.5K TV Shows / 4K, Kids TV, Anime
-- Server location - EU
-- CDN - Yes
-- Prices - 7$/month, multiple plans
-- Trials - No
-- Payment type - Paypal, Crypto
-
 ### ZyfServer
 - Website - No
 - Discord - [https://discord.com/invite/pDtBCKSj5v](https://discord.com/invite/pDtBCKSj5v)

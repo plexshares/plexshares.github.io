@@ -10,7 +10,7 @@ If you are a provider and would like to be added/removed from the list please su
 
 ### Astralis
 - Website - Yes
-- Discord - [https://discord.gg/QUDaUuuv2N](https://discord.gg/QUDaUuuv2N)
+- Discord - [https://discord.gg/SDAyHrGSuv](https://discord.gg/SDAyHrGSuv)
 - Content - 70K+ M, 17K+ TV Shows / 4K HDR & 4K DV / Anime, Kids TV, Audiobooks & eBooks
 - Server location - EU & US
 - CDN - Yes
@@ -18,13 +18,13 @@ If you are a provider and would like to be added/removed from the list please su
 - Trials - No
 - Payment type - Paypal, Crypto, Card
 
-### Arcadia
-- Website - Yes
-- Discord - [https://discord.gg/SDAyHrGSuv](https://discord.gg/SDAyHrGSuv)
-- Content - 26K+ M, 7K+ TV Shows / 4K HDR / Anime, Kids TV & Audiobooks
+### IvyBee
+- Website - [https://ivybee.io](https://ivybee.io)
+- Discord - [https://discord.gg/BRKpWyGnM4](https://discord.gg/BRKpWyGnM4)
+- Content - 27K+ M, 7K+ TV Shows / 4K HDR & 4K DV / Anime, Kids TV & Audiobooks
 - Server location - EU & US
 - CDN - Yes
-- Prices - 7$/month, multiple plans
+- Prices - 10$/month, multiple plans
 - Trials - No
 - Payment type - Paypal, Crypto, Card
 
